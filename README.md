@@ -1,10 +1,12 @@
 # 👋 Hello, I'm Daler Dev!
 
 ## 🚀 About Me
-Frontend Developer with skills in **HTML**, **CSS**, **JavaScript**, and currently learning **Python** for backend development.  
-I enjoy building responsive, user-friendly web applications and continuously improving my coding skills.
+### 💻 Web Developer | Frontend Enthusiast | Problem Solver
+### 🌐 Skilled in **HTML, CSS, SASS** and experienced with **JavaScript & Python**.
+⚡ I enjoy turning ideas into interactive, responsive, and user-friendly web experiences.  
+🚀 Always curious to learn new technologies and improve my craft.  
 
-**My main goal is to become a SENIOR developer.**
+### **My main goal is to become a SENIOR developer.**
 
 ---
 
