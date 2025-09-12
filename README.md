@@ -9,7 +9,7 @@
 ### **My main goal is to become a SENIOR developer.**
 
 ## My Github stats
-[![Your GitHub stats]([https://github-readme-stats.vercel.app/api?username=djumanov&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=DALERdeveloperWEP&show_icons=true&theme=radical))](https://github.com/DALERdeveloperWEP)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DALERdeveloperWEP&show_icons=true&theme=radical)](https://github.com/DALERdeveloperWEP)
 
 ---
 
