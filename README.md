@@ -6,10 +6,10 @@
 ⚡ I enjoy turning ideas into interactive, responsive, and user-friendly web experiences.  
 🚀 Always curious to learn new technologies and improve my craft.  
 
-### **My main goal is to become a SENIOR developer.**
-
-## My Github stats
+## **My Github stats**
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DALERdeveloperWEP&show_icons=true&theme=radical)](https://github.com/DALERdeveloperWEP)
+
+### **My main goal is to become a SENIOR developer.**
 
 ---
 
