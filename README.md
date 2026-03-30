@@ -12,8 +12,6 @@
 ## **My top language**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DALERdeveloperWEP&layout=donut)
 
-## My WakaTime Stats
-![WakaTime](https://wakatime.com/share/@daler_dev/847e3e0f-1849-4aac-9c33-48b63aadc820.svg)
 
 ### **My main goal is to become a SENIOR developer.**
 
