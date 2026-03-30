@@ -7,13 +7,13 @@
 🚀 Always curious to learn new technologies and improve my craft.  
 
 ## **My Github stats**
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DALERdeveloperWEP&show_icons=true&theme=radical)](https://github.com/DALERdeveloperWEP)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DALERdeveloperWEP&show_icons=true&theme=radical)
 
 ## **My top language**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalerdeveloperwep&layout=donut)](https://github.com/dalerdeveloperwep/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DALERdeveloperWEP&layout=donut)
 
 ## **My WakaTime Stats**
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=daler_dev\&layout=compact)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=daler_dev)
 
 ### **My main goal is to become a SENIOR developer.**
 
