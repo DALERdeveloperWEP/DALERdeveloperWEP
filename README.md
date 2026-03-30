@@ -6,11 +6,9 @@
 ⚡ I enjoy turning ideas into interactive, responsive, and user-friendly web experiences.  
 🚀 Always curious to learn new technologies and improve my craft.  
 
-## **My Github stats**
-![WakaTime](https://wakatime.com/share/@daler_dev/39b0a783-4114-42b0-9624-3d0f6edf12ce.svg)
 
 ## **My top language**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DALERdeveloperWEP&layout=donut)
+![WakaTime](https://wakatime.com/share/@daler_dev/39b0a783-4114-42b0-9624-3d0f6edf12ce.svg)
 
 
 ### **My main goal is to become a SENIOR developer.**
