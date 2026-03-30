@@ -8,7 +8,7 @@
 
 
 ## **My top language**
-![WakaTime](https://wakatime.com/share/@daler_dev/39b0a783-4114-42b0-9624-3d0f6edf12ce.svg)
+![WakaTime](https://wakatime.com/share/@daler_dev/c9199884-ace1-43e1-a8a9-6c72cca0603e.svg)
 
 
 ### **My main goal is to become a SENIOR developer.**
