@@ -7,7 +7,7 @@
 🚀 Always curious to learn new technologies and improve my craft.  
 
 ## **My Github stats**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DALERdeveloperWEP&show_icons=true&theme=radical)
+![WakaTime](https://wakatime.com/share/@daler_dev/39b0a783-4114-42b0-9624-3d0f6edf12ce.svg)
 
 ## **My top language**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DALERdeveloperWEP&layout=donut)
